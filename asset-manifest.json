@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/food-version-generator/static/css/main.31d0e096.css",
+    "main.js": "/food-version-generator/static/js/main.e07caa8b.js",
+    "static/js/787.e6daaf9b.chunk.js": "/food-version-generator/static/js/787.e6daaf9b.chunk.js",
+    "index.html": "/food-version-generator/index.html",
+    "main.31d0e096.css.map": "/food-version-generator/static/css/main.31d0e096.css.map",
+    "main.e07caa8b.js.map": "/food-version-generator/static/js/main.e07caa8b.js.map",
+    "787.e6daaf9b.chunk.js.map": "/food-version-generator/static/js/787.e6daaf9b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.31d0e096.css",
+    "static/js/main.e07caa8b.js"
+  ]
+}
